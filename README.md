@@ -3,19 +3,11 @@
 #### Технические навыки: Python, Pandas, NumPy, SciPy, Scikit-learn, CatBoost, PyTorch Lightning, Docker.
 
 ## Образование						       		
-- Бакалавриат, ПМИ (806 каф.)	| Московский авиационный институт (3 курс - учусь)	 			        		
-- Среднее (полное) общее | Гимназия № 1 имени А. С. Пушкина (2021)
+- Бакалавриат, ПМИ | Московский авиационный институт (Учусь на 3 курсе - 806 каф.)	 			        		
+- Школа | Гимназия № 1 имени А. С. Пушкина (2021)
 
-## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
 
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
-
-## Projects
+## Студенческие проекты
 ### Data-Driven EEG Band Discovery with Decision Trees
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
@@ -23,12 +15,13 @@ Developed objective strategy for discovering optimal EEG bands based on signal p
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+### Автоматическая система торговли криптовалютой
+[Publication](https://github.com/Kiyoakiii/tg_bot_crypto)
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+Реализовал проект по автоматической торговли криптовалютой с использованием алгоритма на основе искусственного интеллекта и API Binance. Процесс работы проекта включал получение и обработку исторических данных, получение данных в реальном времени для предсказания точек входа в сделки, предобработку данных, применение различных индикаторов для генерации фичей, выбор библиотеки (в данном случае PyTorch Lightning) и построение модели LSTM для предсказания потенциально выигрышных точек входа в сделку. Для оптимизации гиперпараметров использовал библиотеку Optuna.
 
-![Bike Study](/assets/img/bike_study.jpeg)
+
+![Архитектура]([/assets/img/bike_study.jpeg](https://user-images.githubusercontent.com/113302248/211331783-14212b2f-33bd-4aa3-95be-9a0a84dd8d18.png))
 
 ## Talks & Lectures
 - Causality: The new science of an old question - GSP Seminar, Fall 2021
