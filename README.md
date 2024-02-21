@@ -29,6 +29,6 @@
 ![Архитектура](/assets/img/ar.png)
 
 ## Контакты
-  - ![Telegram](https://t.me/Kiyoakio)
-  - ![mail](korolevilya.277@gmail.com)
+  - [Telegram](https://t.me/Kiyoakio)
+  - [mail](korolevilya.277@gmail.com)
 
