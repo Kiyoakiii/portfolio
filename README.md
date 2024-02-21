@@ -28,7 +28,12 @@
 
 ![Архитектура](/assets/img/ar.png)
 
+# Сертификаты
+  1. В школьные годы я любил и занимался олимпиадной матиматикой. Прилагаю пару сертификатов
+       - [Финал ВсОШ]()
+       - [Финал "Шаг в будущее"](https://diploma.rsr-olymp.ru/files/rsosh-diplomas-static/compiled-storage-2021/by-code/238001090326/color.pdf)
+
 ## Контакты
   - [Telegram](https://t.me/Kiyoakio)
-  - [mail](korolevilya.277@gmail.com)
+  - mail: korolevilya.277@gmail.com
 
