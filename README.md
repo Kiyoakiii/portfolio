@@ -21,7 +21,7 @@ Developed objective strategy for discovering optimal EEG bands based on signal p
 Реализовал проект по автоматической торговли криптовалютой с использованием алгоритма на основе искусственного интеллекта и API Binance. Процесс работы проекта включал получение и обработку исторических данных, получение данных в реальном времени для предсказания точек входа в сделки, предобработку данных, применение различных индикаторов для генерации фичей, выбор библиотеки (в данном случае PyTorch Lightning) и построение модели LSTM для предсказания потенциально выигрышных точек входа в сделку. Для оптимизации гиперпараметров использовал библиотеку Optuna.
 
 
-![Архитектура]([/assets/img/bike_study.jpeg](https://user-images.githubusercontent.com/113302248/211331783-14212b2f-33bd-4aa3-95be-9a0a84dd8d18.png))
+![Архитектура](/assets/img/ar.png)
 
 ## Talks & Lectures
 - Causality: The new science of an old question - GSP Seminar, Fall 2021
