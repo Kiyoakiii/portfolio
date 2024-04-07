@@ -41,7 +41,7 @@ k-ближайших соседе.
 
 # Сертификаты
   1. В школьные годы я любил и занимался олимпиадной математикой. Прилагаю пару дипломов:
-       - [Финал ВсОШ](/assets/img/photo_2024-03-30_17-52-40.jpg)
+       - [Финал ВсОШ](https://drive.google.com/file/d/13sjkeibs7Lxxm1yEMQur-v3MKdHeQnH5/view?usp=drive_link)
        - [Финал "Шаг в будущее"](https://diploma.rsr-olymp.ru/files/rsosh-diplomas-static/compiled-storage-2021/by-code/238001090326/color.pdf)
   2. [Курсы от МФТИ по машинному обучению](/assets/diploma_ru.pdf)
   3. [Программирование на Python](https://stepik.org/cert/1091621)
