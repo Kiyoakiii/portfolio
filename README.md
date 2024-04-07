@@ -13,7 +13,8 @@
 
 ## Студенческие проекты
 
-### [Предсказание наличия сердечно-сосудистых заболеваний (ССЗ)](https://github.com/dppppppppppp/cardiac-assessment-ML)
+### Предсказание наличия сердечно-сосудистых заболеваний (ССЗ) 
+[Код](https://github.com/dppppppppppp/cardiac-assessment-ML) -- [Результат](/assets/ССЗ.pdf)
 
 > Роль: Data Scientist, ML engineer
 
